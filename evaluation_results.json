@@ -1,0 +1,2037 @@
+{
+  "code-davinci-002": {
+    "prompt": "Write a sentence with at least 10 words that begins with and ends with the same word:",
+    "generations": [
+      {
+        "sentence": "\u201cChocolate is the best of all candies,\u201d said",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "When I went to the store, I saw the coolest Nerf gun.\n\nI knew I couldn\u2019t get it because I didn\u2019t have enough money.\n\nBut I was able to put it on lay",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cI am not going to quote a sentence that begins with the same word that ends with the same word.\u201d\n\nEveryday vs. Every day\n\nEveryday is an adjective. Consider the sentence: \u201c",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "+\u201cI\u2019m a dirty dog.\u201d\n+\n+5.\n+Write a sentence that begins: \u201cI\u2019ve got this.\u201d\n+\n+6.\n+Write",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Example: George went to the grocery store to get groceries for the house.\n\nThe word George begins and ends the sentence.\n\n4. Write a sentence with at least 10 words that contains all 5 vowels: a,",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "2.\n\nWrite a sentence with at least 10 words that begins with a vowel and ends with a consonant:\n\n3.\n\nWrite a sentence with at least 10 words that has the same number of vowels and",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to have to",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "She sells seashells by the sea shore.\n\nWrite a sentence with at least 10 words that contains all of the letters of the alphabet:\n\nI am not sure that I can do this without being so repetitive that it",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Write a sentence that has the same words in reverse:\n\nWrite a letter to the author of your favorite book:\n\nWrite a sentence that has two words that are synonyms and two words that are antonyms:",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"The\" is the only word I know...\n\n\"The\" is the only word I know that begins and ends with \"the\".\n\nIf you were a tree, which one would you want to be?:",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The old man sitting in the rocking chair had a slight heart attack.\n\nWrite a sentence with at least 25 words that begins with and ends with the same word: The old man sitting in the rocking chair on the porch on the farm had",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\")\n+user_sentence = gets.chomp\n+\n+puts user_sentence.split.first\n+puts user_sentence.split.last\n+\n+if user_sentence.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The the of of the the. The the of the of the the of the the.\u201d\n\nI\u2019ve been reading and listening to a lot of podcasts from the Startup Podcast. It\u2019s a fantastic podcast that follows",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"\n\t\t\t\t+ \"\\nWhat was your sentence: \");\n\t\tString sentence = input.nextLine();\n\t\t\n\t\tint firstSpace = sentence.indexOf(\" \");\n\t\tString first",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Example: The quick brown fox jumped over the lazy dog.\n\nThe sentence can be about anything you choose, but you must use the word you chose to start and end with.\n\n(No fair using a word with only",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "A shape with the same number of sides as its number of angles.\n\n\n\nWhat is the longest sentence ever written?\n\nThe Guinness Book of Records gives the honor to novelist Jonathan Coe, whose The Rotters\u2019 Club (",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "In the beginning, the beginning of my story...\n\n\n\n(Note to self: you could make this an entire story.)\n\n1.5.5.2.2.2.2.2.2.2",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "the word within.\n\nPost your response (500 words or fewer) in the comments below.\n\nWant more creative writing prompts? Consider:\n\nThe Writer\u2019s Book of Matches\n\nYou might also like:",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cAnd\u201d.\n\nThe car, the only one left in the parking lot, was old and dented, and had a broken headlight, and a bumper sticker that said, \u201cAnd you thought my car was ugly",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"The quick brown fox jumped over the lazy dog.\"\n\n\n\nWrite a poem with a title composed of an adjective, a noun and a verb:\n\n\"Cold Jelly Bean Jiggle\"\n\n\n\nBrush up on",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "+\n+    >>> ex178()\n+    The quick brown fox jumped over the lazy dog.\n+\n+'''\n+\n+\n+def ex178():\n+    pass\n+\n+\n+if",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"The cat ate the rat on the mat that had a hat on it.\"\n\nWrite a sentence with at least 10 words that begins with a \"B\" and ends with a \"T\":\n\n\"The boy went to",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I love my life.\n\nWrite a sentence with at least 10 words that begins with the letter Q and ends with the letter Z:\n\nQueen Zara has a great life, she is extremely wealthy and has everything she wants",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I am going to the store to buy a candy bar because I am hungry and I am craving a candy bar.\n\n*\n\nWrite a sentence using the second-person point of view.\n\nYou will find the store",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The.\n\nWhat is your favorite rain gear?\n\nRain boots.\n\nWhat is your favorite rain quote?\n\n\u201cI like people who get excited about the change of seasons, the sound of the rain, who notice",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The red-haired, athletic, animal-loving, skilled, trustworthy, honest, reliable, intelligent, helpful, and kind Lacey is a wonderful friend.\n\nDay 17:\n\nWrite a sentence with at least 10 words",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The dog finished his dinner and went to the door to be let out.\n\nWrite a sentence in which every single word has a double letter:\n\nI went to the zoo and saw a llama.\n\nWrite a",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cI\u2019m really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "____________________\n\n_________________________________________________________________________________________________\n\nWrite a sentence with at least 10 words that begins with and ends with the same word: ____________________\n\n_________________________________________________________________________________________________\n\nWrite a sentence with at least 10 words that begins with",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"Hello, hello, hello, hello, is anybody in there? Is anybody home? Hello, hello, hello!\"\n\nHave a great weekend,\n\nMr. Kennedy",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cI was so hungry I could eat a horse.\u201d\n\nUse a sentence from a book or movie that means something to you: \u201cThis is my spot.\u201d (Romancing the Stone)\n\nUse a",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "+\n+> Give Greg some green grapes. \n+\n+\n+## Functions\n+\n+1. Write a function that changes a number to a string. \n+\n+2. Write a function that",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "+\n+A dog walked down the street. \n+\n+Step 2: \n+\n+Write a sentence in which the first word is backwards: \n+\n+The dog walked down the street.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Jackie\u2019s favorite story is the story of Jackie\u2019s favorite story.\n\n(I couldn\u2019t think of anything better.)\n\nAdvertisements",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The end.\n\nWrite a poem in which each of the first word in each line rhymes with the last word in each line:\n\nFor example:\n\nThe way to go is up,\n\nBut the way to go",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I find it hard to be hard to be hard to be hard to be hard to be hard to be hard to be hard to be hard to be hard to be hard to be hard to be hard to be hard to be hard to",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Nothing\n\n\n\nWrite a sentence with at least 15 words that contains a word that is repeated three times:\n\nWe will we will rock you!\n\n\n\nWrite a sentence with at least 15 words that has the same number",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The more you learn, the more you know; the more you know, the more you forget.\n\nThe more you learn, the more you know; the more you know, the more you forget. Use the word,",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cThe way to be happy is to be happy.\u201d\n\n\u201cJust do it.\u201d\n\n\u201cI love life. I love it so much that I am happy to live it and I like",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The next letter is the 18th letter of the alphabet. What is this letter and what is the 5-letter word that ends with it?\n\nYour mission is to find all the words that can be made using the letters in",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The word \"the\" is the beginning and ending word.\n\nWrite a sentence using the word \"poppycock.\"\n\nYou are a complete load of poppycock.\n\nWrite a sentence using the word \"shen",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I did that. I did that.\n\nWhat is the longest word you can think of?\n\nPneumonoultramicroscopicsilicovolcanoconiosis\n\nWrite a paragraph using each of the letters",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"To be or not to be.\"\n\n\"To be or not to be.\" Write a sentence with at least 10 words that begins with the same word and ends with the same word:\n\n\"To be or not to",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "My father goes to work at five in the morning every morning so that he can have time to eat breakfast before he goes to work.\n\nWrite a paragraph about your favorite subject in school and why it's your favorite:",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\");\n        string lastWord = Console.ReadLine();\n        Console.WriteLine(\"Your sentence is:\");\n        Console.WriteLine(lastWord.Reverse().ToString());\n    }\n}",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "\"I am so excited to start working at the ABC Company, and I am so excited to start working today!\"\n\nSpell the name of the company you are applying to:\n\nABC Company\n\nWhat did you like or",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I like to eat apples.\n\nI dislike when people do this or do that.\n\nI like to eat apples, I dislike when people do this or do that\u2026\n\nWhat is the first thing you notice about people",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "What have you learned from this activity?\n\nWrite a sentence with at least 10 words that contains all five short vowel sounds:\n\nWhat have you learned from this activity?\n\nWrite a sentence with at least 10 words that",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The big, black, black bear ate a big, big, big, big, big, big, black, black, black, black, black, black, black, black, black, black, black, black, black, black,",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The problem with the chicken and the egg is that the egg came first and then the chicken came first.\n\nWrite the most interesting sentence you can think of that has the fewest number of words.\n\nI live.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cAnd\u201d.\n\n2.\n\nCreate a sentence with two commas in it.\n\n3.\n\nWrite a sentence using a word that starts with \u201cM\u201d to describe a word beginning with",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Do you believe in love at first sight? The question is did you ever love that person after your first contact?\n\nName at least 3 things that you could do to make your day better:\n\nGet up earlier, exercise",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I was walking in the park and I came across a park ranger that represented the park that I was walking in.\n\nWrite a sentence with at least 10 words that contains only one letter:\n\nMmmmmmmmmmmy,",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "//A sentence that begins with and ends with the same word is called a palindrome.\nlet sentence = \"A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The other fucking day I was walking down the fucking street when I saw a fucking girl walk by and I thought \"Wow that fucking girl is really fucking hot!\" but I knew I was fucking out of line so I said \"She",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The word is . . . . . . . . . . . . .\n\nThe sentence is . . . . . . . . . . . . . . . . . . . . .\n\n4. Name",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I hope that you will always still love me when the day comes that I will die.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nI\u2019m not sure if my sentences are correct. Let me know if I have done something wrong.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"I am the type of person who doesn't take things for granted.\"\n\nBefore answering this question, I would like to take a moment to thank all the people who have helped me along the way. You know who you are",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "She will eat cheese and more cheese and more cheese and more cheese and more cheese and more cheese and more cheese and more cheese and more cheese because she loves cheese.\n\nAdvertisements",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "3. What is the longest word in the English language with alternating vowels and consonants?",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cI saw the saw, the saw sawed the saw, the saw sawed the saw sawed the saw.\u201d\n\nAdvertisements",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cI went to the theatre. The theatre was full of people. I watched a play. The play was long. The play was boring. I went to sleep. The audience laughed. I woke up. I was embarrassed.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The sentence begins with the word The sentence ends with the word\n\nThe sentence begins with the word The sentence ends with the word\n\nThe sentence begins with the word The sentence ends with the word\n\nThe sentence begins with the",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "\u201cThe quick brown fox jumped over the lazy dog.\u201d\n\nWrite a sentence with at least 10 words that begins with, ends with and includes the same word:\n\n\u201cThe quick brown fox jumped over the",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The sun shines brightly.\n\nWrite a two-sentence paragraph (no more, no less) that is the most boring paragraph you can write:\n\nThe sun rose. The sun set.\n\nWrite a two-",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The quick brown fox jumped over the lazy dog. (No, it\u2019s not the same word. It\u2019s just a palindrome phrase.)\n\nWrite a short story in which the main character is a serial",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The little pig went to market.\n\nWrite a sentence with at least 10 words that begins with \"I wish\" and ends with \"if only\": I wish I had a dog.\n\nWrite a sentence with at least 10 words that",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cWow, wow, wow, wow, wow, wow, wow, wow, wow, wow!\u201d\n\n(I probably need to work on my sentence structure)\n\nA sentence with all the words in alphabet",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201cSilly Sally sells seashells by the seashore.\u201d\n\n4.\n\nWrite a sentence with at least 10 words that begins with the same letter:\n\n\u201cSilly Sally sells seas",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Like the title of this prompt. (I used the word \u201clike.\u201d)\n\nWrite a sentence with at least 14 words: My guess is that you can do it, even if you don\u2019t want to.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "It\u2019s a beautiful day it\u2019s a beautiful day! What can I do with this beautiful day? I think I\u2019ll go to the park. I\u2019ll take my dog, Muffy with me",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u2018I like to eat pizza.\u2019\n\nWrite a sentence with 5 words that begin with the same letter. \u2018I visit my friends in their houses.\u2019\n\nYou can get more writing tips from our previous blog",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Send help.\n\n3.\n\nWrite a sentence with at least 10 words that contains an alliteration (\u201cbig black bug bit a big black bear\u201d):\n\nRaquel could not wait to eat the",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "A foreshadowing of the word \u201ccannibalism\u201d is present in the form of the crew members\u2019 \u201cwickedness\u201d \u2014 their cruel behavior toward the African natives \u2014 which seems to be a part of",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "+(Hint: Go back to the last paragraph of this document.)\"\"\"\n+\n+sentence = \"\"\"The quick brown fox jumps over the lazy dog.\"\"\"\n+\n+\n+\"\"\"Write an English sentence that contains",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "+\n+    A sentence that starts and ends with the same word is a sentence that starts and ends with the same word.\n+\n+Write a poem that has 5 lines that rhyme.\n+\n+    Roses are",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Hello hello.\n\nHow did you do it?\n\nI said hello to myself.\n\nWhat would you do if you had a million dollars?\n\nI would buy a house.\n\nTell me a short story",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And finally, this was the most difficult sentence to write, but I got it:\n\nWrite a sentence with at least 15 words that uses all the letters of the alphabet.\n\nThe sentence must make sense and not use proper",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The bus station is where the bus stops, and where the story begins.\n\n(The bus station is where the bus stops, and where the bus stops.)\n\n7.\n\n(a)\n\nWrite a sentence",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\u201c I am a tiny figure in a massive world, yet I am not alone. I am connected to everything around me.\u201d\n\n\n\nRead the following sentence:\n\n\n\nI am a tiny figure in a",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "// \t\t\t\t\t\tIf the word begins with a 't', use a noun, otherwise use a verb.\n\n// Q:\n// A:\n\n\n\n// Q:\n// A:",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Same Same Same Same Same Same Same Same Same Same\n\nCoffee\n\nDo you have a nickname? Do you prefer it over your real name?\n\nWhat is the first thing you notice about people?\n\nWhat",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\");\n-        String inputOne = Console.ReadLine();\n-        Console.WriteLine(\"Write a sentence with at least 10 words that begins and ends with the same letter: \");\n-        String inputTwo = Console",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\")\n+        s = s.lower()\n+        if s[0] == s[-1]:\n+            print(\"You win!\")\n+        else:\n+            print(\"You lose. Please try",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Sentence: \" The way that we live our lives is the way we will die, so live your life right. \"\n\n11.\n\nType a list of at least 10 words that contain a double letter:",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The flies flew and flew, but the fly-swatter swung and swung until the flies flew no more.\n\nWrite a sentence with at least 15 words that has two \u201cand\u201ds, two \u201cbut",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "13.\n\nName a city in your state that begins with the letter A:\n\n14.\n\nDraw a picture of a bear in the box below:\n\n15.\n\nName 10 animals that start with the",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "A sentence that begins with and ends with the same word (is called a palindrome).\n\n\"was it a rat i saw\"\n\n\"a man, a plan, a canal, panama\"\n\n\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I have a dream that one day this nation will rise up and live out the true meaning of its creed-we hold these truths to be self evident, that all men are created equal.\n\n\n\nPick the number from 1",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "So, I said to the sheriff, \u201cYou got a warrant?\u201d and he said, \u201cNo, I don\u2019t have a warrant, but if I had one, I\u2019d have a warrant",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The angry dog barked and barked at the mailman as if to warn him not to enter the yard.\n\nUse a word that starts with y and write a sentence with it:\n\nThe yolk of an egg",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\u2019m going to go the the store to get some ____________ in the _____________.\n\nWhich of the following is not a word:\n\nA. regular B. fried C. crispy D. irregular",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\");\n        Scanner sc = new Scanner(System.in);\n        String input = sc.nextLine();\n        String[] myStringArray = input.split(\"\\\\s+\");\n        if(myStringArray",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"I would like to go to the store and buy a thing.\"\n\n\n\nWrite a sentence with at least 10 words that begins and ends with the same letter.\n\n\"I'm going to the store to get a pack",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\" + newSentence);\n+\n+        //5. Write a program that uses a for loop to print the numbers 1 through 10 to the console.\n+        for (int i = 0; i < 10; i++)",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The end\n\n*Write a poem that includes the words: moon, July, and balloon (or any other word you choose) in any order:\n\nBlue balloon\n\nFloating in the sky\n\nNear the July moon",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\u2019m a poet, and I don\u2019t know it.\n\nExplain to a 5 year-old how to plan a party: 1. Pick a theme, 2. Send out invites, 3. Prepare food/",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\");\n        String sentence = input.nextLine();\n        String[] words = sentence.split(\" \");\n        String sentenceLower = sentence.toLowerCase();\n        String[] wordsLower = sentenceLower.split(\" \"",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Kamikaze:\n\nKamikaze finally got back to the Kamikaze and found out that the Kamikaze had been Kamikazed and was no longer a Kamikaze.\n\nVexed:",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\";\n            // \n            // label1\n            // \n            this.label1.AutoSize = true;\n            this.label1.Location = new System.Drawing.Point(71, 50);",
+        "is_epanadiplosis": false
+      }
+    ],
+    "success_rate": 0.04,
+    "repetitiveness": 0.6262626262626263
+  },
+  "text-davinci-002": {
+    "prompt": "Write a sentence with at least 10 words that begins with and ends with the same word:",
+    "generations": [
+      {
+        "sentence": "And then he and she and they all sat down and ate lunch.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I really don't like candy canes.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and again, and again.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then and there I knew I had to end it, once and for all.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I really don't like candy canes.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Angry and frustrated, he banged his fist on the table.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and through the ages, and to the end of time, and beyond.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he and she and them and us and we all went and saw the movie and then got and ice and cream and then went home.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "and\n\nAnd then what happened?",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then she and her and him and them and those and us and we and you and me and her went to the store.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Angie's anger and annoyance was palpable.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I wish I knew what I should do.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"Dancing is my favorite pastime.\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI don't know.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and again, and again, and again, and again, and again, and again.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI wanted to try something new so I decided to bungee jump off a bridge.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Lonely, I felt so lonely that I wanted to cry.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "All around the town, the sound of the car alarm was blaring.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and never once did she blink or waver, and always she smiled.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "and\n\nAnd so it begins, and ends the same way, with and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And then he said, \"I'm not going,\" and he left.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI can't believe it.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he said, \"And that's the end of that.\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he said, \"I'm not going to do that!\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he saw the reflection of himself, and he was happy.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI wish I knew what I was supposed to do.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "She sells seashells by the seashore.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he said, \"I'm not going to do that!\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI can't believe it's already time to go. I'm going to miss this place.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And so the story goes, he was never seen again.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and again, and again, and again, and again, and again, and again, and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I tried to catch the ball, but it bounced off the ground and hit me in the face.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI can't believe it's already time to go. I'm going to miss this place.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "He had a lot of fun and laughed a lot while he was at the party.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he said, \"I'm not going to do that again.\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI have a lot in common with my parents.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI can't believe it's already time to go. I'm going to miss this place.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI can't believe it's already time to go. I've had such a great time here with all of you.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "All aboard the express train to excitement!",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Angry and frustrated, she threw the book across the room.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "She sells sea shells (by the sea shore).",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he said, \"I'm done,\" and stormed out.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then she said, \"I can't believe it!\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "She sells seashells by the seashore.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he said, \"I'm not going to do that!\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I really don't like candy that is covered in a lot of sugar.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI can't believe it's already December.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI feel like I'm stuck in a rut.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The the the the the the the the the the the.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "The the the the the the the the the the.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "All work and no play makes Jack a dull boy.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I wake up to the sound of birds chirping and the sun shining.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and again, and again, and again, and again, and again, and again, and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And then, and there, and back again, and again, and again.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and through the door, and out the window, and down the hall, and into the room, and under the bed, and behind the curtain, and in front of the mirror, and",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I wish I knew how to and so I could and.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I saw a saw that could saw wood and metal.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI need to be more mindful. I need to be more mindful of what I'm eating. I need to be more mindful of how much I'm eating. I need to be more mindful of when I'm eating. I",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And so the story goes, he was never seen again.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "In the end, it all comes down to you.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he said, \"I'm done,\" and left.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI tried to be as quiet as possible so that nobody would hear me.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "and",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I wake up to the sound of birds chirping and the sun shining.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I and I, me and me, myself and myself, we and we.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Angry and frustrated, she banged her fists on the table.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI wish I knew what I was supposed to do.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then he said, \"I'm not going!\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and again, and again, and again, and again, and again, and again.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "and\n\nAnd so it begins, and ends, the same way.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then she and her and her and her and her and her and her and her and her and her and her and her and her and her and her and her and her and her and her and her and her and her and her and",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I\n\nI'm not going to do that.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I tried to teach my cat to fetch, but every time I threw the toy, she just looked at me and meowed.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I wake up to the sound of birds chirping and the sun shining.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "He always says the same thing, \"I'm fine.\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI can't believe it's snowing!",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI decided to go outside and take a walk.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "She sells seashells by the seashore.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I wish I could go back and relive those happy days again.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then there was one.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I tried to catch the ball, but it was too late.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Angrily, she slammed the door shut.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "All work and no play makes Jack a dull boy.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And then, and there, and back again, and again, and again.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "In the end, it all comes down to you.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI'm not going to do that.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Angry and frustrated, I threw my pencil across the room.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI\n\nI",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And then, and there, and back again, and again, and again, and again, and again, and again, and again, and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Angry and bitter, I wanted to scream and shout.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And so the adventure begins and ends with just a simple hello.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I\n\nI can't believe it's already December, time sure does fly!",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I wake up and the first thing I see is the sun shining through the window.",
+        "is_epanadiplosis": false
+      }
+    ],
+    "success_rate": 0.18,
+    "repetitiveness": 0.8888888888888888
+  },
+  "text-davinci-003": {
+    "prompt": "Write a sentence with at least 10 words that begins with and ends with the same word:",
+    "generations": [
+      {
+        "sentence": "And and, and and, and and, and and, and and, and and, and and, and and, and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Tablecloth, tablecloth, tablecloth.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Ringing and ringing, the church bells pealed loudly.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Silly Sally sold seashells by the seashore.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "The cat in the hat sat and sat and sat.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The train conductor carefully conducted the conductor's train.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"And and, the the, same same, word word, was was, used used, both both, times times, to to, start start, and and, end end.\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dancing and dancing, the happy couple swayed and twirled.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and, and and, and and, and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Strolling and strolling, I slowly made my way around the pond.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Delightful, delightful it was to be in the delightful outdoors.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Lollipops lick and lollipops last.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The thesaurus tantalizingly trailed the thesaurus.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Singing and swaying, the birdsong echoed and echoed.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Schooling schooling is the key to success.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Sammy sang songs and sang sammy.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "The professor and the student both questioned and questioned the answer.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Spinning and spinning, the wheel of fortune whirls round and round.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and, the and and and and and and and and anded.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I sprinkled and sprinkled tiny sprinkles of sugar over the cupcakes.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The friendly and faithful fox foxed the foxy fox.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "The thespian thespian delivered a dynamic dramatic performance.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and, and and and and and and and and and and!",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Stretching and stretching, the rubber band snapped and snapped.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Swimmingly, she swam swiftly through the sparkling sea.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The whole wide world and its wonders wonderful!",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"Sparkling sparkles sparkled in the sunshine!\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and, and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Sitting and sitting, she waited patiently.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Sitting and sitting, I waited and waited.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and, and and and, and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dancing, dancing, dancing, dancing, dancing, dancing, dancing, dancing, dancing, dancing.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and, and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and, and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "The sun shone brightly and brightly the sun shone.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Blooming blooms bloom brightly in the sunny summer sky.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "She smiled, smiled at the thought of what could be.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Spectacularly spectacular, the show was a success!",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The and the sun shone brightly.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Clamoring clamorously, the crowd clamored clamorously for the clamoring clam.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and, and and the same and same word and was and used and the end and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and, and and and, and and and and and and, and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "The sun shone brightly and all the children smiled and laughed sunnily.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The sun shone brightly and brightly shone the sun.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and again and again and again and again and again and again and again and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dancing and dancing, the children twirled and whirled.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Theodore theodoreed theodorely through the forest.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Crazy crazy, that's the way it seems when everything is hazy.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Singing and singing, the choir sang a beautiful song.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The quick and quiet quail quacked quietly.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Butterflies flutter, flutter butterflies.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Exercising and exercising is a great way to stay healthy.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and, and and, and and again and again and again and again and again and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Singing and swinging, singing and swinging, singing and swinging.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Swimmingly, swimmingly she swam away.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Herringbone herringbone herringbone herringbone herringbone herringbone herringbone herringbone herringbone herringbone.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Life is a cycle, and cycle is life.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Mouths mouths opened wide in awe.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and, and and, and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "The thesaurus then sometimes thus provides synonymous words.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Cheerfully, cheerfully she smiled.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I skied and skied and skied and skied and skied and skied and skied and skied and skied and skied.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I quickly quickly ran away.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and again and again and again and again and again and again and again and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "\"The bigger and bigger the better and better!\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And so the story ends, ends, ends, ends, ends, ends, ends, ends, ends, ends.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "The teacher teacheth the teacher.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I will not will not be swayed by the sway of public opinion.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Swimmingly swimmingly, the summer sun shimmered.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dancing and dancing, she twirled around the room.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"Strolling and strolling, carefree and content, the traveler kept strolling.\"",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Daringly, daringly, she dared to dare daringly.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Singing and swaying, singing and swaying.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Swimmingly, swimmingly the swimmer swam.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Gathering and gathering information, I quickly gathered all the necessary facts.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Starting and ending with the same word:\nAnd then and then and then and then and then and then and then and then and then and then.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Recreationally, racquetballing racquetballers racketballed.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and, and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "I quickly quickly packed my bags and quickly left.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "And and and and and and and and and and and.",
+        "is_epanadiplosis": true
+      }
+    ],
+    "success_rate": 0.43,
+    "repetitiveness": 0.6666666666666666
+  },
+  "gpt-3.5-turbo": {
+    "prompt": "Write a sentence with at least 10 words that begins with and ends with the same word:",
+    "generations": [
+      {
+        "sentence": "Dreaming of a world where kindness reigns and love abounds.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Forever is a concept that seems to elude our grasp.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Love is the only thing that can heal a broken heart.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "People who love to dance, dance until they can't dance.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Quietly, she crept up the stairs, stairs, stairs, stairs.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Quietly, the cat crept up on the unsuspecting mouse.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Amazingly, amazingly, she finished the entire book in one night.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is a journey that we must all embark on.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are often a reflection of our subconscious desires and fears.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Believe it or not, not believing is simply not an option.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "People who love to travel, travel to love and experience.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are where we can escape and explore our deepest desires.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Sorrowful, she gazed upon the sorrowful landscape of her life.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "A book that remains unread is a wasted opportunity.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreaming, wishing, hoping, and believing in yourself is essential.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Rain, rain, go away, come again another day.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Sorrow is the only thing that I feel, feel, feel.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is a journey, a journey that is full of surprises.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is not about waiting for opportunities, but creating them.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Even though she knew it was wrong, wrong it still felt right.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Cats, cats, cats, cats, cats, cats, cats, cats, cats.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Love is the answer to all of life's questions, love.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Life is full of surprises, surprises that make life worth living.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Love is the only thing that can truly heal the world.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is a journey that we must all take, take it.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Live life like it's meant to be lived, lived to the fullest.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Love is what makes life worth living, and love is eternal.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is what you make it, make it worth living.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Bananas are my favorite fruit, and I always eat bananas.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are what make life worth living, living is dreaming.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"Love, like a river, flows endlessly, endlessly, endlessly.\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Eagles soar high and free, and free they shall remain.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Love is the one thing that can conquer all in life.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Disappointment is what I feel, feel is what I cannot hide.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Time time time, it's always ticking away, never stopping.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Go, go, go, go, go, go, go, go, go!",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Quietly, I sat in the library quietly reading quietly.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Rain, rain, go away, come again another day.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I was walking, walking, walking, and suddenly I was lost.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Love is the only thing that can conquer hate and love.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Life is too short to waste time on negativity, negativity.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are powerful, but sometimes they are also confusing dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Life is a journey, a journey that requires constant learning.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreaming, dreaming, dreaming, is all I've been doing lately.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams, like fleeting clouds in the sky, often elude us.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are what we make of them, and them alone.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Book book is an essential tool for learning and entertainment.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Cats are the best and the worst, and I love them.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Time after time, I find myself lost in thought.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreaming is a wonderful experience, but waking up is harsh.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Love is the only thing that can truly make us happy.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Water, water, everywhere, and not a drop to drink.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "\"Life is a journey, a journey that we all must take.\"",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can be powerful, but sometimes they can be confusing.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Effort is what it takes to achieve success, effort.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are a reflection of our deepest desires and fears.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is precious, precious is the gift we are given.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams that are vivid and memorable can be truly fascinating.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Summer is the time of year when I feel most alive.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is a journey, a journey that we must embrace.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Love is an emotion that can bring both joy and pain.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Boredom is what I feel when I have nothing to do.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Smiling is infectious and it can brighten up anyone's day.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "\"Rain, rain, go away, come again another day, rain.\"",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Life is a journey, and the journey is life.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like stars, guide us through the darkness of life.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Rain, rain, go away, come again another day.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dream, dream big and don't let anyone tell you otherwise.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is a journey, a journey that never truly ends.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Life is a journey that we must all embark on.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Books, books everywhere, but not a single one to read.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Rain, rain, go away, come again another day.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "I cannot believe that I am the only one.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are what keep us going, going after dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Gardening is a skill that requires patience, diligence, and gardening.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Life is full of surprises, surprises that can change your life.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Roses are red, and red is the color of love.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Yesterday, yesterday seemed so far away yesterday, but now it's here.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Yesterday, yesterday seemed so far away, but now it's here.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams, although often surreal and unpredictable, can be fascinating.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are reflections of our deepest desires and fears.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are but fleeting illusions, illusions that we chase.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Peace, peace is what we all strive for in this world.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Rain, rain, go away, come again another day.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Summer is the time for relaxation, rejuvenation, and exploration.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Loneliness is a feeling that can consume and suffocate.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Time and time again, I have proven my worth.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Forever and ever, we will be together in love.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "As a writer, I always try to write write write.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Peaceful moments, moments of peace, peace in the world.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are often the manifestation of our deepest desires and fears.",
+        "is_epanadiplosis": false
+      }
+    ],
+    "success_rate": 0.22,
+    "repetitiveness": 0.6262626262626263
+  },
+  "gpt-4": {
+    "prompt": "Write a sentence with at least 10 words that begins with and ends with the same word:",
+    "generations": [
+      {
+        "sentence": "Dreams are the manifestations of our subconscious thoughts, emotions, and desires, often revealing profound insights about ourselves and our lives \u2013 dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the whispers of our subconscious, revealing our deepest desires, fears, and aspirations, often disguised in a complex web of symbols and emotions, ultimately guiding us back to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Tomorrow, I will go to the store, buy some groceries, cook dinner, and then watch a movie with my family, all before tomorrow.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the subtle whispers that guide our subconscious, revealing the deepest desires and fears that we experience in our waking life, ultimately shaping the way we navigate through the world and chase our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the foundation of our lives, providing inspiration, motivation, and escape, ultimately returning us to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like memories, can sometimes be elusive, inspiring, terrifying, comforting, or just plain bizarre, but ultimately, dreams remain dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can often serve as a window into our subconscious, revealing our deepest desires, fears, and aspirations, ultimately returning us to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the subconscious mind's way of processing emotions, experiences, and memories, ultimately shaping our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like clouds drifting across the sky, can change shapes, inspire thoughts, and remind us that our dreams are never truly out of reach.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are the gateway to our subconscious, providing insight, creativity, and a pathway to understanding our deepest desires, fears, and dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are like a kaleidoscope of colors, constantly shifting and changing, showing us new perspectives and possibilities, sometimes haunting, sometimes inspiring, but always reminding us that life itself is a series of dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the gateway to our subconscious, a realm where creativity and imagination thrive, allowing us to explore the depths of our minds, and ultimately, providing insights to our own dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams transport us through magical lands, where we encounter bizarre creatures, experience thrilling adventures, and ultimately return to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the seeds of change, nourished by our imagination, fueled by our desires, and ultimately, bringing us back to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the secret language of our subconscious, unveiling hidden emotions and desires, and sometimes, dreams can take us to unexpected places, even back to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are powerful tools that can guide us through challenging times, inspire creativity, and help us better understand our deepest desires and emotions, ultimately leading us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams shape our lives, give us hope, inspire creativity, provide escape, offer guidance, and ultimately, dreams return to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can provide unique insights into the human psyche, offering glimpses of our deepest desires and fears, which sometimes manifest themselves in our waking lives as well, shaping the reality of our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the seeds of a creative mind, nurturing hopes, desires, and aspirations, ultimately shaping our reality, so never underestimate the power of dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams inspire us to chase the impossible, to believe in ourselves, and to never give up on our wildest dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams transport us to different worlds, giving us glimpses of unimaginable beauty, sometimes filled with inexplicable emotions, and ultimately, providing a sanctuary for our wandering minds to explore these dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the gateway to our subconscious, revealing hidden thoughts, desires, and fears, often manifesting in strange, incomprehensible ways, yet ultimately, dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the shadows of our deepest desires, the echoes of our secret thoughts, and the whispers of our most vivid dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Determined to achieve success in his new business venture, John worked tirelessly, developing innovative strategies, building strong relationships with clients, and staying informed about industry trends, so that he remained determined.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like fragile glass, can shatter easily, but with determination and hope, we can rebuild and reshape our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are often a reflection of our deepest thoughts, desires, and fears, ultimately taking us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can inspire us to achieve great things, overcome obstacles, and bring new perspectives to our lives, ultimately making our dreams come true.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are the mysterious language of the subconscious mind, providing insights, healing, and often, inspiration for our waking dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are fascinating, mysterious, and often forgotten, yet they hold the power to inspire our waking lives with their vivid, surreal landscapes and bring us back to the world of dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the seeds of reality that grow in the fertile soil of our imagination, ultimately guiding us towards achieving our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are powerful tools that inspire us to achieve our goals, overcome obstacles, and ultimately, help us live our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the windows to our soul, allowing us to explore the depths of our emotions, desires, and fears, ultimately guiding us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the windows to our subconscious minds, revealing our deepest desires, fears, and aspirations, ultimately shaping our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the secret messages our minds send us during sleep, helping us to understand our deepest desires, fears, and ultimately, our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the gateway to our subconscious, revealing hidden desires and fears, allowing us to explore alternative realities, and ultimately, guiding us back to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are powerful tools that can inspire, motivate, and provide insights into our deepest desires and fears, but only if we pay attention to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the mysterious and enchanting language of our subconscious, revealing hidden desires and emotions, often manifesting in strange and bewildering scenes that leave us pondering their meaning long after we've awoken from our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Tomorrow, I will start my new job, meet my new colleagues, learn new skills, and embrace new challenges, all for a brighter tomorrow.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the touchstones of our character, guiding us through life's journey, and ultimately leading us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the vivid illustrations of our deepest desires, hopes, and aspirations, sometimes reflecting our unspoken fears and insecurities, ultimately shaping our reality and our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like delicate flowers, often bloom in the darkest corners of our minds, weaving stories both enchanting and terrifying, leaving us to ponder their significance in the waking world, only to vanish like whispers in the wind, becoming distant dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can often inspire and motivate us to achieve great things, despite obstacles and challenges, ultimately helping us to realize our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like fleeting shadows, can inspire us, challenge us, perplex us, and ultimately guide us back to chasing dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can often feel incredibly realistic, making it difficult to distinguish between the realm of dreams and reality, but ultimately, dreams are what we make of them - dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams often transport us into strange realms where reality and fantasy intertwine, creating a world of endless possibilities and adventures, all within the confines of our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like fragile glass sculptures, can shatter and break, but they also have the power to inspire, uplift, and guide us through life's challenges, ultimately leading us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like fleeting thoughts on a starry night, can inspire, amaze, and sometimes even haunt us until we ultimately return to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Tomorrow, I will wake up early, pack my bags, say goodbye to my friends, and head off on my journey, excited for what awaits me tomorrow.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are powerful enough to change the course of our lives, inspire us to reach new heights, and ultimately, fulfill our wildest dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the windows to our subconscious, revealing hidden desires and fears, allowing us to explore alternate realities, and ultimately guiding us back to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams shape our reality, guide our decisions, influence our relationships, and ultimately, dreams can lead us back to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like whispers in the night, can guide, inspire, and reveal our deepest desires, but only if we dare to pursue those dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like the delicate bubbles of a child's laughter, can burst and vanish, leaving only the faintest trace of their existence in the corners of our minds, until we once again embrace the world of dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like the delicate balance of life, can be ephemeral, fleeting, and mysterious, yet they possess the power to inspire, haunt, and guide us through our darkest moments, ultimately returning us to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are fascinating, often providing insights into our subconscious, unveiling fears, desires, and sometimes leading us back to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the fuel that drive our aspirations, push us to explore new possibilities, and ultimately lead us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can often lead us down unexpected paths, challenging our perceptions and inspiring us to chase after our wildest dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, once considered the unconscious mind's playground, may also provide insight into our emotions, memories, and even potential future events, making dreams quite fascinating.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams, like fragile butterflies, can inspire hope, ignite imagination, and bring joy to our hearts, making life more magical than before; yet, only when we pursue them, do they truly become our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the gateway to our unconscious minds, providing insight into our deepest desires and fears, ultimately guiding us back to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like vivid memories, can transport us to distant places, embracing the beauty of the imagination and the power of the mind, all while we sleep, allowing us to live a thousand lives through our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can inspire us to pursue our passions, provide insight into our minds, and sometimes, they can even change our lives in unexpected ways, ultimately leading us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the driving force behind our aspirations, pushing us to overcome obstacles, pursue happiness, and ultimately, achieve our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Tomorrow, she will go to the store, buy groceries, cook dinner, and settle down to watch a movie, all before tomorrow.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are fascinating, mysterious, sometimes terrifying, often uplifting, occasionally confusing, but ultimately, dreams are dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams transport us to faraway lands, where we encounter magical creatures, conquer daunting challenges, and ultimately rediscover the power of our own dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are often the driving force behind our greatest achievements, pushing us to strive for more and ultimately fulfill our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the whispers of our soul that guide us through the darkest nights and help us achieve our wildest dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the key to unlocking our subconscious, helping us explore our deepest desires and fears, and ultimately guiding us back to the world of dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can inspire us, motivate us, provide insight, or serve as a temporary escape from reality, but ultimately, dreams are still dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the foundation of our hopes, aspirations, desires, and ambitions, yet they can also haunt us with nightmares and unattainable goals, ultimately shaping our realities and defining our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the powerful tools that motivate us, challenge us, and help us explore new possibilities in life, ultimately making dreams reality.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams often transport us to magical realms, where time bends, and reality shifts, leaving us to ponder the mystery of dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can be powerful motivators, inspiring us to strive for success, overcome obstacles, and ultimately, achieve our wildest dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can often guide our thoughts, emotions, and actions, influencing our daily lives in powerful and mysterious ways, ultimately shaping the dreams we have.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams are the gateway to our unconscious minds, revealing hidden desires, fears, and memories that shape our waking lives, ultimately returning to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams transport us to surreal worlds, where our thoughts blend with reality, and our wildest fantasies come to life, creating a kaleidoscope of emotions and experiences that can only be found in dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are like intricate puzzles, revealing the deepest desires and fears of our inner selves, leading us to explore the unlimited realms of our imagination, only to return to where it all began \u2013 dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams often seem unreachable, but with hard work, determination, and persistence, we can achieve even our wildest dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can inspire us to reach new heights, explore new possibilities, and ultimately guide us back to the power of dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are powerful tools that can inspire change, motivate action, and bring joy to our lives, all while reminding us of the importance of chasing our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like fleeting shadows in the night, can reveal hidden desires, illuminate forgotten memories, or simply offer a momentary escape from reality, but ultimately, dreams are just dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like whispers in the wind, can guide us through the darkest nights and lead us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams, like delicate threads woven into our lives, can inspire, motivate, and sometimes even haunt us, but ultimately, dreams shape our reality and inform our future dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the windows to our subconscious, revealing our deepest desires, fears, and aspirations, ultimately shaping the tapestry of our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams shape our reality, pushing us towards our goals, helping us grow, and ultimately, dreams become our guiding force in life, making us who we are \u2013 dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are like bridges, connecting our deepest desires, aspirations, and emotions, ultimately guiding us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can open doors to new worlds, inspire creativity, bring clarity to problems, and even heal emotional wounds, but sometimes dreams vanish like morning fog.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams can take us to unimaginable places, inspire our creativity, and remind us of long-forgotten memories, all within the realm of our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the windows to our souls, guiding us through life's journey, inspiring us to reach for the stars and embrace our deepest desires and aspirations, ultimately leading us back to our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams shape our lives, influence our decisions, inspire our creativity, fuel our passions, teach us lessons, provide escape from reality, and ultimately, dreams return to dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are fascinating, mysterious, and often elusive, leaving us wondering what they mean and why we have them, only to find ourselves back at dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the whispers of our souls, leading us on a journey through the mysterious landscapes of our minds, weaving tales of wonder, hope, and sometimes, nightmares; yet, we always return to those dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams shape our goals, aspirations, and desires, but ultimately, it's our determination and hard work that turns those dreams into reality, allowing us to achieve our wildest dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can encourage us to pursue our passions, inspire creativity, provide glimpses into our subconscious, and sometimes even offer a brief escape from reality, reminding us that dreams can be powerful.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams often seem like a mysterious realm where our subconscious comes to life, revealing our deepest desires and fears through vivid, sometimes enigmatic, dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are the gateway to our subconscious mind, revealing our deepest desires, fears, and aspirations, ultimately shaping the essence of our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams are fascinating, mysterious, often bizarre, and sometimes hard to understand, but ultimately, dreams are our own personal experiences.",
+        "is_epanadiplosis": false
+      },
+      {
+        "sentence": "Dreams, like waves crashing on the shore, bring forth new possibilities, hope, and inspiration, forever guiding us towards our dreams.",
+        "is_epanadiplosis": true
+      },
+      {
+        "sentence": "Dreams can often inspire us to pursue our goals, face our fears, and embrace the unlimited potential within ourselves, ultimately leading us back to dreams.",
+        "is_epanadiplosis": true
+      }
+    ],
+    "success_rate": 0.92,
+    "repetitiveness": 0.9797979797979798
+  }
+}

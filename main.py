@@ -13,6 +13,22 @@ import random
 import string
 
 import openai
+import tqdm
+from tenacity import (
+    retry,
+    wait_exponential,
+)
+
+
+@retry(wait=wait_exponential(min=1, max=600))
+def completion_with_backoff(**kwargs):
+    return openai.Completion.create(**kwargs)
+
+
+@retry(wait=wait_exponential(min=1, max=600))
+def chatcompletion_with_backoff(**kwargs):
+    return openai.ChatCompletion.create(**kwargs)
+
 
 def generate_epanadiplosis(model_name, prompt, temperature=0.7, max_tokens=50):
     """
@@ -27,23 +43,27 @@ def generate_epanadiplosis(model_name, prompt, temperature=0.7, max_tokens=50):
     Returns:
         str: The generated sentence.
     """
+    generated_text = ""
     if model_name == "gpt-3.5-turbo" or model_name == "gpt-4":
-        response = openai.ChatCompletion.create(
-            model=model_name,
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=max_tokens,
-            temperature=temperature
-        )
-        generated_text = response.choices[0].message.content.strip()
+        while len(generated_text) == 0:
+            response = chatcompletion_with_backoff(
+                model=model_name,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=max_tokens,
+                temperature=temperature
+            )
+            generated_text = response.choices[0].message.content.strip()
     else:
-        response = openai.Completion.create(
-            model=model_name,
-            prompt=prompt,
-            max_tokens=max_tokens,
-            temperature=temperature
-        )
-        generated_text = response.choices[0].text.strip()
+        while len(generated_text) == 0:
+            response = completion_with_backoff(
+                model=model_name,
+                prompt=prompt,
+                max_tokens=max_tokens,
+                temperature=temperature
+            )
+            generated_text = response.choices[0].text.strip()
     return generated_text
+
 
 def is_epanadiplosis(sentence):
     """
@@ -59,6 +79,7 @@ def is_epanadiplosis(sentence):
     first_word = words[0].lower().strip(string.punctuation)
     last_word = words[-1].lower().strip(string.punctuation)
     return first_word == last_word
+
 
 def evaluate_models(models, prompt, temperature, max_tokens, num_generations):
     """
@@ -77,20 +98,22 @@ def evaluate_models(models, prompt, temperature, max_tokens, num_generations):
     results = {}
     for model in models:
         success_count = 0
-        unique_first_words = 0
+        first_word_repetitions = 0
         model_results = {
             "prompt": prompt,
             "generations": []
         }
         first_words = set([])
 
-        for _ in range(num_generations):
+        for _ in tqdm.tqdm(range(num_generations)):
             generated_sentence = generate_epanadiplosis(model, prompt, temperature)
-            success = is_epanadiplosis(generated_sentence)
             first_word = generated_sentence.strip().split()[0].lower().strip(string.punctuation)
-            if first_word not in first_words:
-                unique_first_words += 1
+            if first_word in first_words:
+                first_word_repetitions += 1
+            else:
                 first_words.add(first_word)
+
+            success = is_epanadiplosis(generated_sentence)
             if success:
                 success_count += 1
 
@@ -101,10 +124,10 @@ def evaluate_models(models, prompt, temperature, max_tokens, num_generations):
 
         success_rate = success_count / num_generations
         model_results["success_rate"] = success_rate
-        diversity_rate = unique_first_words / num_generations
-        model_results["diversity"] = diversity_rate
+        repetitiveness = first_word_repetitions / (num_generations-1)
+        model_results["repetitiveness"] = repetitiveness
         results[model] = model_results
-        print (f'Model: {model}. Success rate: {success_rate} ({success_count} out of {num_generations}). Diversity: {diversity_rate} ({unique_first_words} out of {num_generations})')
+        print (f'Model: {model}. Success rate: {success_rate} ({success_count} out of {num_generations}). Repetitiveness: {repetitiveness} ({first_word_repetitions} out of {num_generations-1})')
 
     return results
 
@@ -126,6 +149,7 @@ def parse_arguments():
     parser.add_argument("--output", type=str, default="evaluation_results.json", help="Output file path for the evaluation results")
     return parser.parse_args()
 
+
 def save_results_to_file(results, output_file):
     """
     Save the evaluation results to a specified file.
@@ -136,6 +160,7 @@ def save_results_to_file(results, output_file):
     """
     with open(output_file, "w") as f:
         json.dump(results, f, indent=2)
+
 
 if __name__ == "__main__":
     args = parse_arguments()

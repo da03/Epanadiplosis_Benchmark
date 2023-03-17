@@ -1,11 +1,12 @@
 # Epanadiplosis Benchmark
 
-Benchmarking the performance of various language models in generating [epanadiplosis](https://en.wiktionary.org/wiki/epanadiplosis), i.e., generating sentences that start with and end with the same word. Below is an example:
+Benchmarking the performance of various language models in generating [epanadiplosis](https://en.wiktionary.org/wiki/epanadiplosis), i.e., generating sentences that start with and end with the same word. Below is an example from Philippians 4:4:
 
 ```
 Rejoice in the Lord always: and again I say, Rejoice.
 ```
-(Philippians 4:4)
+
+Writing such sentences is quite trivial for human writers, yet large language models cannot reliably solve this task yet.
 
 ## Dependencies
 
@@ -31,13 +32,13 @@ python main.py --api_key ${API_KEY} --num_generations 100
 
 ## Results
 
-| Model            | Success Rate↑ | Repetitivenes↓ |
-|------------------|---------------|----------------|
-| code-davinci-002 |               |                |
-| text-davinci-002 |               |                |
-| text-davinci-003 |               |                |
-| gpt-3.5-turbo    |               |                |
-| gpt-4            |               |                |
+| Model            | Success Rate↑  (%) | Repetitivenses↓  (%) |
+|------------------|--------------------|----------------------|
+| code-davinci-002 | 4                  | 63                   |
+| text-davinci-002 | 18                 | 89                   |
+| text-davinci-003 | 43                 | 67                   |
+| gpt-3.5-turbo    | 22                 | 63                   |
+| gpt-4            | 92                 | 98                   |
 
 Evaluation metrics:
 
