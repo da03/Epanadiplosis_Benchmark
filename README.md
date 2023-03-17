@@ -43,10 +43,19 @@ python main.py --api_key ${API_KEY} --num_generations 100
 Evaluation metrics:
 
 * Success rate: The proportion of generated sentences that demonstrate epanadiplosis (i.e., using the same word as both the first and last word in the sentence).
-* Repetitiveness: The proportion of first words (counting from the second generation) that have been used in previous generations. For example, if all generated sentences start with the same word "Dreams", then this number will be 1.
+* Repetitiveness: The proportion of first words (counting from the second generation) that have been used in previous generations. For example, if all generated sentences start with the same word "Dreams", then this number will be 100%.
 
 The raw generations corresponding to the above results are included in [evaluation_results.json](./evaluation_results.json) as part of the repo. Note that each run will result in different generations since we cannot set the random seed using the OpenAI API.
 
+## Prompt
+
+The prompt used to obtain the results in this benchmark is:
+
+```
+Write a sentence with at least 10 words that begins with and ends with the same word:
+```
+
+The requirement of "at least 10 words" helps ensure that the generated sentences are of a reasonable length. Without this constraint, some models tend to produce short and ungrammatical phrases.
 
 ## Acknolegements
 
