@@ -1,6 +1,6 @@
 # Epanadiplosis Benchmark
 
-Benchmarking the performance of various language models in generating epanadiplosis, a rhetorical device involving the repetition of words at the beginning and end of a sentence. Below is an example:
+Benchmarking the performance of various language models in generating [epanadiplosis](https://en.wiktionary.org/wiki/epanadiplosis), i.e., generating sentences that start with and end with the same word. Below is an example:
 
 ```
 Rejoice in the Lord always: and again I say, Rejoice.
