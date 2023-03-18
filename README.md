@@ -1,5 +1,7 @@
 # Epanadiplosis Benchmark
 
+![GPT-4 Demo](./epanadiplosis.png)
+
 Benchmarking the performance of various language models in generating [epanadiplosis](https://en.wiktionary.org/wiki/epanadiplosis), i.e., generating sentences that start with and end with the same word. Below is an example from Philippians 4:4:
 
 ```
