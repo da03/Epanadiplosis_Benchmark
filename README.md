@@ -8,8 +8,6 @@ Benchmarking the performance of various language models in generating [epanadipl
 Rejoice in the Lord always: and again I say, Rejoice.
 ```
 
-Writing such sentences is quite trivial for human writers, yet large language models cannot reliably solve this task yet.
-
 ## Dependencies
 
 Install the required dependencies with:
